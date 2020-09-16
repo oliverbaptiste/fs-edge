@@ -1,0 +1,2 @@
+[rebound]>[0][255][0][spd5][dirleft]
+[mono]>[0][0][0]
